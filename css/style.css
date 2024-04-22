@@ -106,6 +106,16 @@ button i {
     font-family: 'Fraunces';
 }
 
+@media screen and (max-width: 375px) {
+    .product {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    
+    }
+}
+
 .attribution {
     margin-top: 20px;
     font-size: 11px;
