@@ -118,7 +118,8 @@ button i {
 }
 
 .attribution {
-    margin-top: 20px;
+    position: absolute;
+    bottom: 0;
     font-size: 11px;
     text-align: center;
 }
