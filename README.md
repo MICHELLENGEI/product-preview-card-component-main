@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Screenshot%202024-04-22%20120741.png)
+![](./design/Screenshot%202024-04-29%20at%2012-34-25%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
 
 ### Links
